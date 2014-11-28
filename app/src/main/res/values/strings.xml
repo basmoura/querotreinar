@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QueroTreinar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Registrar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">Nome</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_phone">Telefone</string>
+    <string name="action_register">Criar</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_login">Login</string>
+    <string name="action_sign_in_short">valor inválido</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_register_full">Não tem conta? Clique aqui</string>
+    <string name="error_invalid_name">Nome está inválido</string>
+
+</resources>
